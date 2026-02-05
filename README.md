@@ -6,17 +6,23 @@ ___
 To learn, implement and most importantly document components of data pipeline. 
 
 ___
+## Table of Content
+1. [Structure](#structure)
+2. [Getting-started](#getting-started)
+3. [Tools-Used](#tools-used)
+___
 ## Structure
 
-```
-Designing and Implementing Data Pipeline
-	| Week 0 ->     Introduction and getting used to normal tasks
-	| Week 1 ->     (To be added)
-	.
-	.
-	| Readme ->     Overview of the repo 
-```
 
+| Week | Description |
+|------|-------------|
+| [Week 0](./Week-0/) | Introduction and getting used to normal tasks |
+| [Week 1](./Week-1/) | Serialization, Deserialization & File Handling |
+| … | … |
+| … | … |
+| [README](./README.md) | Overview of the repo |
+
+---
 **Each week folder includes**
 - Source code. 
 - Notes and comments
@@ -27,13 +33,15 @@ ___
 ### To run it locally follow the following step.
 1.  Clone the repo using the following bash command
 ```
-get clone https://github.com/PrafulS22001/Designing-and-Implementing-Data-Pipeline.git
+git clone https://github.com/PrafulS22001/Designing-and-Implementing-Data-Pipeline.git
 ```
 2. Navigate to the desired folder
 ```
 cd Desgning-and-Implementing-Data_Pipeline/Week-0
 ```
 3. Run the code
+<br>
+Instructions for running the task are included inside the weekly folders.
 ___
 ## Tools used
 
