@@ -16,7 +16,7 @@ ___
 
 | Week | Description |
 |------|-------------|
-| [Week 0](./Week-0/) | Introduction and getting used to normal tasks |
+| [Week 0](https://github.com/PrafulS22001/Designing-and-Implementing-Data-Pipeline/tree/main/Week%200) | Introduction and getting used to normal tasks |
 | [Week 1](./Week-1/) | Serialization, Deserialization & File Handling |
 | … | … |
 | … | … |
@@ -43,6 +43,7 @@ cd Desgning-and-Implementing-Data_Pipeline/Week-0
 <br>
 Instructions for running the task are included inside the weekly folders.
 ___
+
 ## Tools used
 
 - Python 
