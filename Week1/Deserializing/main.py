@@ -1,3 +1,9 @@
+##############################
+#Filename: main.py
+#Date of Code: 4th Feb 2026
+#Author: Praful Sharma
+##############################
+
 from file_handler import FileHandler
 from item import Item
 

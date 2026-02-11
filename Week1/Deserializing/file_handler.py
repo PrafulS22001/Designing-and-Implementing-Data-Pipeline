@@ -1,3 +1,9 @@
+##############################
+#Filename: file_handler.py
+#Date of Code: 4th Feb 2026
+#Author: Praful Sharma
+##############################
+
 class  FileHandler: 
     filepath : str #indicated filepath is expected to be a string
     def __init__(self, filepath) -> None:

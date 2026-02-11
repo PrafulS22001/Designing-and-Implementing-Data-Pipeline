@@ -1,3 +1,9 @@
+##############################
+#Filename: item.py
+#Date of Code: 4th Feb 2026
+#Author: Praful Sharma
+##############################
+
 from dataclasses import dataclass #comes from the standard library module dataclasses. Have to be imported.
 
 @dataclass
