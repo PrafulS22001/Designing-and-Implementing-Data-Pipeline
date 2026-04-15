@@ -14,13 +14,15 @@ ___
 ## Structure
 
 
-| Week | Description |
-|------|-------------|
-| [Week 0](https://github.com/PrafulS22001/Designing-and-Implementing-Data-Pipeline/tree/main/Week%200) | Introduction and getting used to normal tasks |
-| [Week 1](./Week-1/) | Serialization, Deserialization & File Handling |
-| … | … |
-| … | … |
-| [README](./README.md) | Overview of the repo |
+| Week | Description | Ststus |
+|------|-------------| ------ |
+| [Week 0](https://github.com/PrafulS22001/Designing-and-Implementing-Data-Pipeline/tree/main/Week%200) | Introduction and getting used to normal tasks | Done | 
+| [Week 1](https://github.com/PrafulS22001/Designing-and-Implementing-Data-Pipeline/tree/main/Week1) | Serialization, Deserialization & File Handling | Done |
+| [Week 2](https://github.com/PrafulS22001/Designing-and-Implementing-Data-Pipeline/tree/main/Week2) | Empty at this time | Empty |
+| [DB](https://github.com/PrafulS22001/Designing-and-Implementing-Data-Pipeline/tree/main/DB) | Database Tasks | In Progress |
+| [Activities](https://github.com/PrafulS22001/Designing-and-Implementing-Data-Pipeline/tree/main/DB) | Activities and Fun tasks | In Progress
+| ... | ... |
+| [README](./README.md) | Overview of the repo | Ongoing |
 
 ---
 **Each week folder includes**
