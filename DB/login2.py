@@ -1,3 +1,8 @@
+####################################
+# Login System for Student Database
+# Created by: Praful Sharma 
+####################################
+
 import sqlite3
 
 
@@ -44,7 +49,7 @@ def register():
     student = c.fetchone()
 
     if not student:
-        print("No matching student found. Cannot register.\n")
+        print(" No matching student found. Cannot register.\n")
         return
 
     try:
@@ -80,7 +85,7 @@ def login():
         print(" Access denied. :( \n")
 
 def view_credits():
-    username = input("Enter your username to see how many credits you have: ")
+    username = input("Enter your username again to see how many credits your course has: ")
 
     # Get student id
     c.execute(
@@ -121,15 +126,14 @@ def menu():
         print("====================================")
         print("1 - Register")
         print("2 - Login")
-        print("3 - Access Credits")
         print("0 - Exit")
         choice = input("Enter choice: ")
         if choice == "1":
             register()
         elif choice == "2":
             login()
-        elif choice == "3":
-            view_credits()
+            if input("View credits? (y/n): ").lower() == "y":
+                view_credits()
         elif choice == "0":
             print("Exiting program.")
             break
@@ -138,7 +142,7 @@ def menu():
 
 
 if __name__ == "__main__":
- create_table()
- menu()
+    create_table()
+menu()
 
- conn.close()
+conn.close()
